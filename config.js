@@ -13,7 +13,7 @@ global.pulsa = '087734910547'
 global.gopay = '087734910547'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Nino Bot'
+global.namebot = '𝘼𝙣𝙮𝙖 𝘽𝙤𝙩'
 global.gc = 'https://chat.whatsapp.com/C0cERkbxNmM2veEQSKPf7D'
 global.web = 'https://github.com/Pinzz45' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'ɴɪɴᴏ ʙᴏᴛ'
+global.wm = 'ᴀɴʏᴀ ʙᴏᴛ'
 global.watermark = wm
-global.wm2 = '                     「 Nino Bot 」'
-global.wm3 = 'Nino Bot'
+global.wm2 = '                     「 𝘼𝙣𝙮𝙖 𝘽𝙤𝙩 」'
+global.wm3 = '𝘼𝙣𝙮𝙖 𝘽𝙤𝙩'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
