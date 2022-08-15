@@ -1,13 +1,13 @@
 //=============『 Utama 』================== //
-global.owner = ['6287734910547'] 
+global.owner = ['628981614707'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'MFX'
 global.numberowner = '628981614707'
-global.instagram = 'https://instagram.com/_alv.stn'
-global.github = 'https://github.com/Pinzz45'
+global.instagram = '-'
+global.github = '-'
 global.dana = '08981614707'
 global.pulsa = '081774916559'
 global.gopay = '08981614707'
