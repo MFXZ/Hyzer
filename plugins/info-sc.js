@@ -9,10 +9,10 @@
 let handler = async (m, { conn }) => {
 let ye = `@${m.sender.split`@`[0]}`
 let esce = `
-Hai ${ye} Lagi Nyari Sc Ya? 
+Hai ${ye} Sc? PRIVATE TOD🗿
 
-Nih Link Sc Nya Dibawah :
-https://youtu.be/AXPzjQ5jxx8
+Mau Sc?
+Minta ma owner🗿
 
 _*Jangan Lupa Di Subscribe*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
