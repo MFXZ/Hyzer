@@ -14,7 +14,7 @@ Nyari Sc? ${ye} PRIVATE TOD 🗿
 Mau Sc?
 Minta Ma Owner🗿
 
-_*Jangan Lupa Di Subscribe*_`
+Jangan Di Spam Owner Nya`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
 handler.help = ['sc', 'sourcecode']
