@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['628981614707'] 
+global.owner = ['628981614707,6285922480867'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'MFX'
-global.numberowner = '628981614707'
+global.nameowner = 'Owner,Co Owner'
+global.numberowner = '628981614707,6285922480867'
 global.instagram = '-'
 global.github = '-'
 global.dana = '08981614707'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*Stiker sedang dibuat...*'
-global.packname = '2022'
-global.author = '© MFC'
+global.packname = ''
+global.author = 'MFC BOT'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
