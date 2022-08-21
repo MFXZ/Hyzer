@@ -13,8 +13,8 @@ global.pulsa = '081774916559'
 global.gopay = '08981614707'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'MFC BOT'
-global.gc = ''
+global.namebot = 'Soviet - Bot'
+global.gc = 'https://chat.whatsapp.com/DElrCDsoCpr0HoKaFoUqjo'
 global.web = 'https://github.com/Pinzz45' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 20.000\n2 Minggu 15.000\n1 Minggu 10.000'
 
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'MFC BOT'
+global.wm = 'Soviet - Bot'
 global.watermark = wm
-global.wm2 = '                     「 MFC BOT 」'
-global.wm3 = 'MFC BOT'
+global.wm2 = '                     「 Soviet - Bot 」'
+global.wm3 = 'Soviet - Bot'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*Stiker sedang dibuat...*'
 global.packname = ''
-global.author = 'MFC BOT'
+global.author = 'Soviet - Bot'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
